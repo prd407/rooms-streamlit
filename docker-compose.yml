@@ -1,0 +1,16 @@
+# test yml file not using currently
+
+# version: '1' 
+
+# services:
+  # app:
+    # build:
+      # context: .
+      # dockerfile: Dockerfile
+    # image: streamlit-app
+    # container_name: main-container
+    # network_mode: host
+    # extra_hosts:
+    #   - "host.docker.internal:host-gateway"
+
+    # restart: always  # Restart policy for the container (optional)

@@ -1,0 +1,4 @@
+{"type": ["Deluxe", "Suite", "Value", "Family"],
+"capacity":["Single","Double", "Quad"],
+"bed":["King","Queen","Twin","Bunk"],
+"extras":["Garden","Balcony","Pool","Sea"]}
