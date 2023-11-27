@@ -10,6 +10,9 @@ Now can go to Tab 2 Content generation it will have 3 dropdowns, one for photo s
 
 On clicking generate button it will show a message and call the segmind api with the prompt message, please wait for it to get response, then it will show the Image on the screen with caption.
 
+# To run with out instlling use the public url
+https://prd407-rooms.streamlit.app/
+and can add input files from the example_input_files folder
 
 ## Deployment
 
